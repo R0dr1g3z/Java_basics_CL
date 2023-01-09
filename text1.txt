@@ -1,0 +1,7 @@
+test
+jeden
+space
+exist?
+lorum opsim matum
+kolejny
+tescik programu

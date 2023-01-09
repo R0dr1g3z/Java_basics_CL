@@ -1,0 +1,39 @@
+Java
+C
+C++
+C#
+Python
+JavaScript
+PHP
+Visual Basic .NET
+Perl
+Objective-C
+Język asemblera
+Swift
+Ruby
+(Visual) Basic
+Delphi/Object Pascal
+Go
+Groovy
+R
+MATLAB
+PL/SQL(Visual) Basic
+C
+C#
+C++
+Delphi/Object Pascal
+Go
+Groovy
+Java
+JavaScript
+Język asemblera
+MATLAB
+Objective-C
+PHP
+PL/SQL
+Perl
+Python
+R
+Ruby
+Swift
+Visual Basic .NET
