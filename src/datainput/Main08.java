@@ -12,7 +12,6 @@ public class Main08 {
     public static int[] sortedArray(){
         Scanner scan = new Scanner(System.in);
         System.out.println("Ile wylosowac liczb?");
-        // int num = scan.nextInt();
         int[] arr = new int[scan.nextInt()];
         Random r = new Random();
         for (int i = 0; i < arr.length; i++) {
