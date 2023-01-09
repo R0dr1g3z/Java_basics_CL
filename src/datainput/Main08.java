@@ -9,7 +9,7 @@ public class Main08 {
         System.out.println(Arrays.toString(sortedArray()));
     }
 
-    public static int[] sortedArray(){
+    public static int[] sortedArray() {
         Scanner scan = new Scanner(System.in);
         System.out.println("Ile wylosowac liczb?");
         int[] arr = new int[scan.nextInt()];
