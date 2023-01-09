@@ -11,7 +11,7 @@ public class Main01 {
 
     public static void consolePrint() throws IOException {
         Scanner scan = new Scanner(System.in);
-        try (FileWriter fileWriter = new FileWriter("text1.txt", true)) {
+        try (FileWriter fileWriter = new FileWriter("michal/text1.txt", true)) {
             while (true) {
                 String data = scan.nextLine();
                 if (data.equals("quit")) {
